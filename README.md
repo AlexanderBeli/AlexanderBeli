@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">A passionate backend developer from Serbia</h3>
+<h3 align="center">A passionate backend developer living in Serbia</h3>
 <h3 align="left">Something about me...</h3>
 <p align="left">
 🔭 I’m currently working on ... Python & Django</p>
 <p align="left">
 🌱 I’m currently learning ... Python & Django 😊</p>
+<p align="left">
+  ⚡ Fun fact: I speak 🇷🇺🇨🇳🇬🇧🇷🇸🇪🇸🇫🇷🇰🇷🇲🇲 and I can speak with 🧏 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
