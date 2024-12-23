@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">A passionate backend developer living in Serbia</h3>
+<h3 align="center">A passionate fullstack developer living in Serbia</h3>
 <h3 align="left">Something about me...</h3>
 <p align="left">
 🔭 I’m currently working on ... Python, Django, PostgreSQL, PHP, Laravel, VueJS, MySQL, JS</p>
