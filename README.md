@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate fullstack developer living in Serbia</h3>
-<h3 align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAlexanderBeli%2Fgithub-visitors-badge"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlexanderBeli%2Fgithub-visitors-badge&label=VISITORS&labelColor=%232ccce4&countColor=%2337d67a" /></a></h3>
+<h3 align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAlexanderBeli%2Fgithub-visitors-badge"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlexanderBeli%2Fgithub-visitors-badge&label=VISITORS&labelColor=%23697689&countColor=%23ba68c8&labelStyle=upper" /></a></h3>
 <h3 align="left">Something about me...</h3>
 <p align="left">
 🔭 I’m currently working on ... Python, Django, PostgreSQL, PHP, Laravel, VueJS, MySQL, JS</p>
