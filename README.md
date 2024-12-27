@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate fullstack developer living in Serbia</h3>
-<h3 align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAlexanderBeli%2Fgithub-visitors-badge"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlexanderBeli%2Fgithub-visitors-badge&label=Profile%20Views%20&labelColor=%23697689&countColor=%237B1E7A&labelStyle=upper" /></a></h3>
+<div id="user-content-badges" align="center" dir="auto">
+  <a href="https://t.me/dutianming" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/057a1e76d03c8f63a6df6304ce623204fe3348a77d562f761bfcec792037860b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/belitskiy-dev/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/7c2145551dc29c09205720b1acea43652035cc0f1eb46278acc400f1c1fc59a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>          
+</div>
+<div align="center" dir="auto">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAlexanderBeli%2Fgithub-visitors-badge"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlexanderBeli%2Fgithub-visitors-badge&label=Profile%20Views%20&labelColor=%23697689&countColor=%237B1E7A&labelStyle=upper" /></a></div>
 <h3 align="left">Something about me...</h3>
 <p align="left">
 🔭 I’m currently working on ... Python, Django, PostgreSQL, PHP, Laravel, VueJS, MySQL, JS</p>
