@@ -39,3 +39,9 @@
   <a href="https://nginx.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/></a>
   <a href="https://www.heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 </p>
+
+<div align="center" dir="auto">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderBeli&theme=buefy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderBeli&theme=buefy" /></a>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderBeli&theme=buefy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderBeli&theme=buefy" /></a>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexanderBeli&theme=buefy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexanderBeli&theme=buefy" /></a>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexanderBeli&theme=buefy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexanderBeli&theme=buefy" /></a></div>
