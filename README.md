@@ -40,10 +40,6 @@
   <a href="https://www.heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 </p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AlexanderBeli" alt="GitHub Streak" /></a>
-</div>
-
 <div align="center" dir="auto">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderBeli&theme=buefy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderBeli&theme=buefy" /></a>
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderBeli&theme=buefy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderBeli&theme=buefy" /></a>
