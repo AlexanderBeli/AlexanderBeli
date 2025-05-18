@@ -12,9 +12,9 @@
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAlexanderBeli%2Fgithub-visitors-badge"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlexanderBeli%2Fgithub-visitors-badge&label=Profile%20Views%20&labelColor=%23697689&countColor=%237B1E7A&labelStyle=upper" /></a></div>
 <h3 align="left">Something about me...</h3>
 <p align="left">
-🔭 I’m currently working on ... Python, Django, PostgreSQL, PHP, Laravel, VueJS, MySQL, JS</p>
+🔭 I’m currently working on ... Python, FastAPI, Django, PostgreSQL, PHP, Laravel, VueJS, MySQL, JS</p>
 <p align="left">
-🌱 I’m currently learning ... patterns 😊</p>
+🌱 I’m currently playing with AI models 😊</p>
 <p align="left">
   ⚡ Fun fact: I speak 🇷🇺🇨🇳🇬🇧🇷🇸🇪🇸🇫🇷🇰🇷🇲🇲 and I can speak with 🧏 
 </p>
